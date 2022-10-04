@@ -142,6 +142,7 @@
     <ClCompile Include="Prog_Lv2_Fibo.cpp" />
     <ClCompile Include="Prog_Lv2_HIndex.cpp" />
     <ClCompile Include="Prog_Lv2_Parenthesis.cpp" />
+    <ClCompile Include="Prog_Lv2_Printer.cpp" />
     <ClCompile Include="Prog_Lv2_RotateParenthesis.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
