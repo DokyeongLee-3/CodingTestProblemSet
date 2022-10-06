@@ -18,6 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Programmers\Prog_Lv2_Fibo.cpp" />
+    <ClCompile Include="Programmers\Prog_Lv2_HIndex.cpp" />
+    <ClCompile Include="Programmers\Prog_Lv2_Parenthesis.cpp" />
+    <ClCompile Include="Programmers\Prog_Lv2_Printer.cpp" />
+    <ClCompile Include="Programmers\Prog_Lv2_RotateParenthesis.cpp" />
+    <ClCompile Include="Programmers\Prog_Lv3_TravelPath.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -138,13 +146,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="Prog_Lv2_Fibo.cpp" />
-    <ClCompile Include="Prog_Lv2_HIndex.cpp" />
-    <ClCompile Include="Prog_Lv2_Parenthesis.cpp" />
-    <ClCompile Include="Prog_Lv2_Printer.cpp" />
-    <ClCompile Include="Prog_Lv2_RotateParenthesis.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

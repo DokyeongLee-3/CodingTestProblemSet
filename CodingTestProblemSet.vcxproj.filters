@@ -15,19 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Prog_Lv2_Parenthesis.cpp">
+    <ClCompile Include="Programmers\Prog_Lv2_Fibo.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Prog_Lv2_Fibo.cpp">
+    <ClCompile Include="Programmers\Prog_Lv2_HIndex.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Prog_Lv2_HIndex.cpp">
+    <ClCompile Include="Programmers\Prog_Lv2_Parenthesis.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Prog_Lv2_RotateParenthesis.cpp">
+    <ClCompile Include="Programmers\Prog_Lv2_Printer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Prog_Lv2_Printer.cpp">
+    <ClCompile Include="Programmers\Prog_Lv2_RotateParenthesis.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\Prog_Lv3_TravelPath.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
