@@ -24,6 +24,7 @@
     <ClCompile Include="Programmers\Prog_Lv2_Parenthesis.cpp" />
     <ClCompile Include="Programmers\Prog_Lv2_Printer.cpp" />
     <ClCompile Include="Programmers\Prog_Lv2_RotateParenthesis.cpp" />
+    <ClCompile Include="Programmers\Prog_Lv3_IntegerTriangle.cpp" />
     <ClCompile Include="Programmers\Prog_Lv3_TravelPath.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
