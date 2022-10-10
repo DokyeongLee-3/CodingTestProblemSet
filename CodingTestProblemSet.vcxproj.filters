@@ -36,5 +36,11 @@
     <ClCompile Include="Programmers\Prog_Lv3_IntegerTriangle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Programmers\Prog_Lv2_SkillTree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\Prog_Lv2_PhoneNumberList.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
