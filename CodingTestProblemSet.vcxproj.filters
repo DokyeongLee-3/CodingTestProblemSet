@@ -42,5 +42,14 @@
     <ClCompile Include="Programmers\Prog_Lv2_PhoneNumberList.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Prog_Lv3_WayToSchool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog_Lv3_OvertimeIndex.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Prog_Lv4_theif.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
